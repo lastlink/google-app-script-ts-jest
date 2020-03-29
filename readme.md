@@ -1,5 +1,6 @@
 # Google Apps Script Rest Api Typescript & jest
-* A google apps script project using typescript with jest and claps deploy
+* A google apps script project using typescript with jest and clasp deploy
+* visual studio code debugger works for jest
 
 ## Getting started
 * `npm install`
@@ -24,4 +25,4 @@
 * `npm run test:watch`
 
 ## Debugging
-* Can use debugger in app script ide in browser or jest debugger
+* Can use debugger in app script ide in browser or jest debugger in visual studio code
