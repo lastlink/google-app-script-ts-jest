@@ -11,6 +11,7 @@
     "deploy": "npm run build && npm run upload",
     "deploy:prod": "cross-env NODE_ENV=production npm run deploy",
     "test": "jest --forceExit --verbose",
+    "test:coverage": "jest --forceExit --coverage --verbose",
     "test:watch": "jest --watchAll",
     "lint": "tsc --noEmit && eslint \"src/**/*.{js,ts}\"",
     "lint:fix": "tsc --noEmit && eslint \"src/**/*.{js,ts}\" --fix"
