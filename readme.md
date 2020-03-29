@@ -23,6 +23,7 @@
 ## Run Unit Tests
 * `npm run test`
 * `npm run test:watch`
+* `npm run test:coverage`
 
 ## Debugging
 * Can use debugger in app script ide in browser or jest debugger in visual studio code
