@@ -90,6 +90,10 @@ module.exports = {
             {
                 from: `${src}/../appsscript.json`,
                 to: destination
+            },
+            {
+                from: `${src}/testFunctions.js`,
+                to: destination
             }
         ]),
     ]
