@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.clasp.json
+RestDocs
+*.txt
+src/server/config.js
+
+# Coverage reports
+coverage
+
+junit.xml
